@@ -1,4 +1,5 @@
 {
+  {
   "browser": "chrome"
 },
 {
@@ -6,4 +7,5 @@
 },
 {
   "root": "public"
+}
 }
