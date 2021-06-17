@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+   "package-name": "version",
+   "express": "4.14.0"   
 	},
 	"main": "server.js",
 	"scripts": {
@@ -11,5 +12,9 @@
 		"type": "git",
 		"url": "https://github.com/WiseGuise/boilerplate-npm.git"
 	},
-	"author": "James Ragain"
+	"author": "James Ragain",
+  "description": "My package of challenges",
+  "keywords": [ "javascript", "freecodecamp", "james", "ragain" ],
+  "license": "Copyright 2025",
+  "version": "2.14.0"
 }
