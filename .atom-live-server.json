@@ -1,9 +1,5 @@
 {
-  "browser": "chrome"
-}
-{
-  "entry-file": "index.html"
-}
-{
+  "browser": "chrome",
+  "entry-file": "index.html",
   "root": "public"
 }
